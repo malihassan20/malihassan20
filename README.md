@@ -11,7 +11,9 @@ I've been building software for 10 years. These days that means AI SaaS: RAG pip
 ### Stack
 
 **AI:** OpenAI · Anthropic · LangChain · RAG · pgvector · Qdrant · Pinecone · ElevenLabs
+
 **Daily:** TypeScript · React · Next.js · Node.js · Python · FastAPI · PostgreSQL · Tailwind
+
 **Regularly:** Redis · Supabase · Prisma · Docker · AWS · Stripe · WebRTC
 
 🟢 Available for new projects. [Tell me what you're building →](https://alihassan.dev/contact)
